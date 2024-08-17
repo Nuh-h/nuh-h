@@ -1,5 +1,14 @@
 ### Hi there 👋
-![logo](/new-style-logo-9png.png)
+
+<p align="center">
+  <a href="https://nuh-web.vercel.app">
+    <img alt="Nuh's logo" src="https://raw.githubusercontent.com/Nuh-h/Nuh-web/main/src/images/logo.inline.svg?token=GHSAT0AAAAAACRH4CQ7J2V5YKI65BWMS6O2ZWAKRUA" width="200"/>
+  </a>
+</p>
+<h1 align="center" style="margin-top:-15px">
+  Nuh
+</h1>
+
 <!--
 **Nuh-h/nuh-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
